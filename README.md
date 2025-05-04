@@ -16,4 +16,4 @@ It is then read via a line in the `.zhrc` as follows
 source ~/webquotes.sh
 ```
 
-Requires internet connection to escriva.org to work.
+Requires internet connection to [escriva.org](https://escriva.org/en/) to work.
