@@ -17,3 +17,13 @@ source ~/webquotes.sh
 ```
 
 Requires internet connection to [escriva.org](https://escriva.org/en/) to work.
+
+## Installation
+
+1. Copy the file `webquotes.sh` into your `$HOME` directory.
+    From the this directory you can use `cp webquotes.sh ~/`.
+2. Add the following line into the last line of your `~/.zhprofile`.
+    Since I'm using `zsh`, I have `~/.zshprofile`.
+    If you are using `bash`, you should have `~/.bash_profile`, `~/.bash_login` or `~/.profile`.
+3. You may need to restart your terminal.
+
